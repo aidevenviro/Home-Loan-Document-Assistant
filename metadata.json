@@ -1,0 +1,5 @@
+{
+  "name": "Home Loan Document Assistant for MANE",
+  "description": "An app to help users in India generate a checklist of required documents for a home loan application.",
+  "requestFramePermissions": []
+}
